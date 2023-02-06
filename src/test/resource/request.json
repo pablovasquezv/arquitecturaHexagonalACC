@@ -1,0 +1,36 @@
+{
+  "canalOperacion": "MOV.MIN",
+  "canalAtencionTO": {
+    "identificadorCanalAtencion": "9"
+  },
+  "clienteTO": {
+    "rut": "4507415",
+    "subRut": "0"
+  },
+  "ejecutivoConectadoTO": {
+    "rutEmpleado": "800000602",
+    "usuario": "INTERNET"
+  },
+  "ejecutivoOperacionTO": {
+    "rutEmpleado": "800000602"
+  },
+  "idTransaccion": "6946090652612399134",
+  "tipoOperacionEnum": "VENTA",
+  "tipoProductoEnum": "ACCIONES",
+  "tipoOperacion": "VTA",
+  "fechaVigencia": "09102021",
+  "cantidadOrden": "1",
+  "indicadorPrecioLimite": "LI",
+  "medioCobroPago": "CTACTE",
+  "montoOperacion": "1",
+  "montoValorizado": "1",
+  "nombreSerie": "FALABELLA",
+  "numeroCuentaCorriente": "3160112007",
+  "precioLimite": "1",
+  "precioOrden": "1",
+  "rutCliente": "4507415",
+  "sruCliente": "0",
+  "unidadesTransadas": "1.0",
+  "condicionDeLiquidacion": "CN",
+  "comision": "1"
+}

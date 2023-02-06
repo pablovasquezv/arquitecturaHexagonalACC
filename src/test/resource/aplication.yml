@@ -1,0 +1,5 @@
+service:
+  operacion-banco:
+    url: http://balieap01des.domdes01.cl:8080/cl.banchile.go-svc/OperacionBancoEJB?wsdl
+  comprobante:
+    url: http://balieap01des.domdes01.cl:8080/cl.banchile.go-svc/ComprobanteServiceEJB?wsdl
