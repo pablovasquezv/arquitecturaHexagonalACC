@@ -1,4 +1,4 @@
-package cl.banchile.bchrest.administra.acciones.commom.config;
+package cl.banchile.bchrest.administra.acciones.common.config;
 
 package cl.banchile.bchrest.administra.acciones.common.config;
 

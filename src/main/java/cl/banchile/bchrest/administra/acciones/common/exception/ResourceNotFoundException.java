@@ -1,4 +1,4 @@
-package cl.banchile.bchrest.administra.acciones.commom.exception;
+package cl.banchile.bchrest.administra.acciones.common.exception;
 
 /**
  * @author Pablo

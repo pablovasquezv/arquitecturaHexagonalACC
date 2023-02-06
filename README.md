@@ -14,4 +14,4 @@ Lista de configuraciones de desarrollo que se requieren locamente para ejecutar 
 Link URL Confluence.
 - https://confluence.bantcent.cl/display/SERNEG/Servicio+Administra+Acciones
 ### Readme  Update
-* ***Daniel Vera*** - *13-11-2022*
+* ***Juan Pablo Vásquez*** - *06-02-2023*

@@ -1,4 +1,4 @@
-package cl.banchile.bchrest.administra.acciones.commom.utils;
+package cl.banchile.bchrest.administra.acciones.common.utils;
 
 /**
  * @author Pablo
